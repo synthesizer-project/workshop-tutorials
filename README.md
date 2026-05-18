@@ -1,2 +1,2 @@
-# agn-workshop
-AGN workshop materials
+# workshop-tutorials
+Workshop materials for synthesizer and associated packages
